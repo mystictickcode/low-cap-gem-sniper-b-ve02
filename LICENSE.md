@@ -1,4 +1,4 @@
-# 
+# professional Automation for low cap gem sniper bot | slippage-control & back-running is the best low cap gem sniper bot, featuring slippage-control and back-running. Fast, smart,
 
 
 
